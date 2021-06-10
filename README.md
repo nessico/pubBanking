@@ -1,4 +1,4 @@
-# Banking Application
+# Please read the banking documentation to gain a technical understanding first.
 
 Group 1 -- Avocado Toast
 
