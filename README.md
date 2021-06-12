@@ -5,7 +5,7 @@ Pages:
 * 22 for implementation
 * 28 for workflow
 
-## Getting started
+Getting Started:
 
 You must have Java JDK 1.8+ and NodeJS installed and in your `PATH`.
 
