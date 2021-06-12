@@ -1,8 +1,7 @@
-# Please read the banking documentation to gain a technical understanding first.
+## Please read the banking documentation to gain a technical understanding first.
 
 
-## Team members
-
+Team Members:
 - Flaviu Tamas -- flaviut
 - Anandita Dubey -- demo123git
 - Danh Pham -- nessico
