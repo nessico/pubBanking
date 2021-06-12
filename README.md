@@ -1,12 +1,5 @@
 ## Please read the banking documentation to gain a technical understanding first.
-
-
-Team Members:
-- Flaviu Tamas -- flaviut
-- Anandita Dubey -- demo123git
-- Danh Pham -- nessico
-- Alex Petros -- apetros1
-- Carlos Deleon -- cdele
+Page 9 for system architecture
 
 ## Getting started
 
