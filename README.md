@@ -1,8 +1,8 @@
 ## Please read the banking documentation to gain a technical understanding first.
 Pages:
 * 9 for system architecture
-* 17 behavioral modeling
-* 22 implementation
+* 17 for behavioral modeling
+* 22 for implementation
 * 28 for workflow
 
 ## Getting started
