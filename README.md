@@ -10,6 +10,9 @@
 ## Use Case Example
 ![](https://raw.githubusercontent.com/nessico/pubBanking/main/img/bankingUseCase.PNG)
 
+## Design Patterns
+![](https://raw.githubusercontent.com/nessico/pubBanking/df1e98eacbbfeb368053e0dfaa1ce0d3df7a4a4f/img/bankingDesignPatterns.PNG)
+
 ## Workflow
 ![](https://raw.githubusercontent.com/nessico/pubBanking/main/img/bankingWorkFlow.PNG)
 
