@@ -1,11 +1,21 @@
-## Please read the banking documentation to gain a technical understanding first.
-Pages:
-* 9 for system architecture
-* 17 for behavioral modeling
-* 22 for implementation
-* 28 for workflow
+# Please read the bankingdocumentation.pdf for more details
 
-Getting Started:
+
+## Class Diagram
+![](https://raw.githubusercontent.com/nessico/pubBanking/main/img/bankingClassDiagram.PNG)
+
+## Architectural Modeling
+![](https://raw.githubusercontent.com/nessico/pubBanking/main/img/bankingArchitectureModeling.PNG)
+
+## Use Case Example
+![](https://raw.githubusercontent.com/nessico/pubBanking/main/img/bankingUseCase.PNG)
+
+## Workflow
+![](https://raw.githubusercontent.com/nessico/pubBanking/main/img/bankingWorkFlow.PNG)
+
+
+
+## Getting Started:
 
 You must have Java JDK 1.8+ and NodeJS installed and in your `PATH`.
 
