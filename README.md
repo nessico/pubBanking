@@ -1,4 +1,4 @@
-# Please read the bankingdocumentation.pdf for more details
+## Please read the bankingdocumentation.pdf for more details
 
 
 ## Class Diagram
